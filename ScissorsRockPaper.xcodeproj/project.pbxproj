@@ -12,6 +12,7 @@
 		9D5B518B1FF13F9D00D96049 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D5B51891FF13F9D00D96049 /* Main.storyboard */; };
 		9D5B518D1FF13F9D00D96049 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D5B518C1FF13F9D00D96049 /* Assets.xcassets */; };
 		9D5B51901FF13F9D00D96049 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D5B518E1FF13F9D00D96049 /* LaunchScreen.storyboard */; };
+		9D5B51981FF13FE300D96049 /* ScissorsRockPaperController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D5B51971FF13FE300D96049 /* ScissorsRockPaperController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9D5B518C1FF13F9D00D96049 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9D5B518F1FF13F9D00D96049 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D5B51911FF13F9D00D96049 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D5B51971FF13FE300D96049 /* ScissorsRockPaperController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScissorsRockPaperController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				9D5B51851FF13F9D00D96049 /* AppDelegate.swift */,
 				9D5B51871FF13F9D00D96049 /* ViewController.swift */,
+				9D5B51971FF13FE300D96049 /* ScissorsRockPaperController.swift */,
 				9D5B51891FF13F9D00D96049 /* Main.storyboard */,
 				9D5B518C1FF13F9D00D96049 /* Assets.xcassets */,
 				9D5B518E1FF13F9D00D96049 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				9D5B51881FF13F9D00D96049 /* ViewController.swift in Sources */,
 				9D5B51861FF13F9D00D96049 /* AppDelegate.swift in Sources */,
+				9D5B51981FF13FE300D96049 /* ScissorsRockPaperController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
